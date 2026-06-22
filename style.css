@@ -1,0 +1,22 @@
+* {
+    text-align:center;
+    color: grey;
+}
+
+body {
+    background-color:beige;
+
+}
+
+nav {
+    text-align:Center;
+    background-color:pink;
+    color:brown;
+    padding:20px;
+}
+.hero {
+    text-align:center;
+    color: beige;;
+
+
+}
