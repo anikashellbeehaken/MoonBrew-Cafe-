@@ -41,7 +41,7 @@ nav a:hover {
     background-image:
         linear-gradient(rgba(0, 0, 0, 0.5),
             rgba(0, 0, 0, 0.5)),
-        url("images/icons/image1.jpg");
+        url("images/image1.jpg");
 
     background-size: cover;
     background-position: center;
