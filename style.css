@@ -6,8 +6,8 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #fff8ed;
-    color: #4b2e2e;
+    background-color: #443113;
+    color: #e2d4a9;
     line-height: 1.6;
 }
 
@@ -65,7 +65,7 @@ nav a:hover {
 }
 
 .btn {
-    background-color: #8b5e3c;
+    background-color: #dbc3b1;
     color: white;
     text-decoration: none;
     padding: 12px 28px;
@@ -88,13 +88,12 @@ section h2 {
 }
 
 .product {
-    background-color: white;
-    width: 280px;
-    padding: 25px;
-    margin: 20px auto;
-    border-radius: 15px;
-    border: 1px solid #d8b48a;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    background-color: #287780;
+
+     border: 4px inset rgb(41, 187, 198);
+     padding: 20px;
+     border-radius: 10px;
+        
 }
 
 .product h3 {
@@ -110,7 +109,7 @@ section h2 {
 #specials,
 #about,
 #contact {
-    background-color: #fffaf3;
+    background-color: #472f0d;
 }
 
 footer {
